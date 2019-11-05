@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\average\average\bin\Debug\average.exe
+c:\users\admin\documents\visual studio 2010\Projects\average\average\bin\Debug\average.pdb
+c:\users\admin\documents\visual studio 2010\Projects\average\average\obj\x86\Debug\average.exe
+c:\users\admin\documents\visual studio 2010\Projects\average\average\obj\x86\Debug\average.pdb
