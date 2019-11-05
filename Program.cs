@@ -9,6 +9,7 @@ namespace average
     {
         static void Main(string[] args)
         {
+            //average function edited in github
             double number1, number2, number3, number4;
 
             Console.Write("Enter the First number: ");
